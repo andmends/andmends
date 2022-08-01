@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou André Mendes! Estudante de Programação </h1>
+<h1 align="center"> Estudante de Programação </h1>
 <div>
   <a href="https://github.com/andmends">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=andmends&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
